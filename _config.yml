@@ -1,7 +1,7 @@
 title: 技術書供養寺
 description: 
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:

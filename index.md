@@ -5,6 +5,8 @@
 
 [技術書典2](https://techbookfest.org/event/tbf02) お-13で頒布します。
 
+<img src="./images/big_mouth_data_2017spr.png" width="300px" alto="big mouth data 2017 spring"/>
+
 ### 目次
 - 機械学習初学者向けのポエム(@chezou)
   - 機械学習プロジェクトのはじめ方
